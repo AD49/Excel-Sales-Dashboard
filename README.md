@@ -1,6 +1,6 @@
 # Excel-Sales-Dashboard
 Interactive Excel sales dashboard analyzing 9,994 records across sales, profit, products, customers, monthly trends, and geographic performance.
-# 📊 Sales Dashboard — Microsoft Excel
+# Sales Dashboard — Microsoft Excel
 
 An interactive sales analysis dashboard created using Microsoft Excel to analyze sales performance, profitability, product categories, customer activity, monthly trends, and geographic performance.
 
